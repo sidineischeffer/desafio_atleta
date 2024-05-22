@@ -1,0 +1,7 @@
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\bin\Debug\Desafio_Atleta.exe.config
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\bin\Debug\Desafio_Atleta.exe
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\bin\Debug\Desafio_Atleta.pdb
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\obj\Debug\Desafio_Atleta.csproj.AssemblyReference.cache
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\obj\Debug\Desafio_Atleta.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\obj\Debug\Desafio_Atleta.exe
+C:\temp\projetos\Desafio_Atleta\Desafio_Atleta\obj\Debug\Desafio_Atleta.pdb
